@@ -31,7 +31,7 @@ As Car Plates prices are determined by many factors such as supply & demand, uni
 ## Additional Tools required to install
 - Natural Breaking ("conda install -c conda-forge jenkspy") on ANACONDA.NAVIGATOR -> CMD.exe Prompt
 
-## New Things We Leant
+## New Things We Learnt
 - Natural Breaking Algorithm
 - Pandas Groupby Function (Our Solution)
 - Polynomial Regression (Non-linear Regression)

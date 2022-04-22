@@ -1,7 +1,7 @@
 # Mini_Project_1015
 Predicting Car Plate Prices.
 Done by: Genson Tan, Tan Kim Seng, Oh Ding Ang
-The entire code in jupyter notebook can be found here: 
+The entire code in jupyter notebook can be found [here!](https://github.com/gents98/Mini_Project_1015/blob/main/MiniProject-Finale.ipynb) 
 
 ## Data Source
 ParseHub WebScraping from: 
@@ -31,5 +31,19 @@ As Car Plates prices are determined by many factors such as supply & demand, uni
 ## Additional Tools required to install
 - Natural Breaking ("conda install -c conda-forge jenkspy") on ANACONDA.NAVIGATOR -> CMD.exe Prompt
 
-## Conclusion
+## New Things We Leant
+- Natural Breaking Algorithm
+- Pandas Groupby Function (Our Solution)
+- Polynomial Regression (Non-linear Regression)
+- Web Data Scraping (ParseHub Software)
+- Self-Made Features/Variables
+
+## References
+- https://towardsdatascience.com/data-grouping-in-python-d64f1203f8d3 (Groupby)
+- https://towardsdatascience.com/polynomial-regression-bbe8b9d97491 (Polynomial Regression)
+- https://pbpython.com/natural-breaks.html (Natural break)
+- https://openreview.net/pdf?id=B1ydPgTpW (Article on Car Plate)
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html (Application of Groupby)
+- https://towardsdatascience.com/is-overfitting-really-bad-ddaabfc2f6b8 (Is overfitting a bad thing?)
+- https://ucars.sg/blog/car-hacks/car-plate-numbers-singapore/ (Singapore Car Plate's History
 

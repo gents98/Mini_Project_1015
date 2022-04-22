@@ -1,4 +1,4 @@
-# Mini_Project_Predicting Car Plate Prices
+# Mini_Project
 ![image](https://github.com/gents98/Mini_Project_1015/blob/main/Coverpage_carplate.jpg)
 - The entire code in jupyter notebook can be found [here!](https://github.com/gents98/Mini_Project_1015/blob/main/MiniProject-Finale.ipynb) 
 

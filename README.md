@@ -45,5 +45,5 @@ As Car Plates prices are determined by many factors such as supply & demand, uni
 - https://pbpython.com/natural-breaks.html (Natural break)
 - https://openreview.net/pdf?id=B1ydPgTpW (Article on Car Plate)
 - https://towardsdatascience.com/is-overfitting-really-bad-ddaabfc2f6b8 (Is overfitting a bad thing?)
-- https://ucars.sg/blog/car-hacks/car-plate-numbers-singapore/ (Singapore Car Plate's History
+- https://ucars.sg/blog/car-hacks/car-plate-numbers-singapore/ (Singapore Car Plate's History)
 

@@ -1,5 +1,4 @@
-# Mini_Project_1015
-- Predicting Car Plate Prices
+# Mini_Project_Predicting Car Plate Prices
 - Done by: Genson Tan, Tan Kim Seng, Oh Ding Ang
 - The entire code in jupyter notebook can be found [here!](https://github.com/gents98/Mini_Project_1015/blob/main/MiniProject-Finale.ipynb) 
 

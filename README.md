@@ -37,6 +37,9 @@ As Car Plates prices are determined by many factors such as supply & demand, uni
 - Web Data Scraping (ParseHub Software)
 - Self-Made Features/Variables
 
+## Video
+- [Mini-Project 10mins Presentation](https://youtu.be/7NvyHx2cEUY)
+
 ## References
 - https://towardsdatascience.com/data-grouping-in-python-d64f1203f8d3 (Groupby)
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html (Application of Groupby)

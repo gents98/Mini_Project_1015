@@ -41,16 +41,16 @@ As Car Plates prices are determined by many factors such as supply & demand, uni
 - [Mini-Project 10mins Presentation](https://youtu.be/7NvyHx2cEUY)
 
 ## Contributions
-# Ding Ang
+## Oh Ding Ang
 - Data Collection/ Web Scraping 
 - Exploratory Data Analysis
 
-# Kim Seng
+## Tan Kim Seng
 - Data Collection/ Web Scraping
 - Pandas Groupby
 - Natural Break Fisher-Jenks Algorithm
 
-# Genson
+## Genson Tan
 - Machine Learning
 - Data Research/ Web Scraping
 - 

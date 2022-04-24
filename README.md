@@ -53,7 +53,7 @@ As Car Plates prices are determined by many factors such as supply & demand, uni
 ## Genson Tan
 - Machine Learning
 - Data Research/ Web Scraping
-- 
+
 ## References
 - https://towardsdatascience.com/data-grouping-in-python-d64f1203f8d3 (Groupby)
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html (Application of Groupby)
